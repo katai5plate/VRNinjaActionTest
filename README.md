@@ -1,0 +1,2 @@
+# VRNinjaActionTest
+スマホVRの首振りのみでアクションゲームを作ってみるテスト。
